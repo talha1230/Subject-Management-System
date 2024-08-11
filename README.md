@@ -1,19 +1,34 @@
-How to run the Teacher Subject Allocation System Project using PHP and MySQL
+# Teacher Subject Allocation System Project 🎓📚
 
-1. Download the project zip file
+## How to Run the Project 🚀
 
-2. Extract the file and copy tsas  folder
+1. **Download the Project Zip File** 📦
+   - [Download Link](#)
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/Html)
+2. **Extract the File** 📂
+   - Extract the downloaded zip file.
 
-4.Open PHPMyAdmin (http://localhost/phpmyadmin)
+3. **Copy the `tsas` Folder** 📁
+   - Copy the `tsas` folder from the extracted files.
 
-5. Create a database with the name  tsasdb
+4. **Paste Inside Root Directory** 🗂️
+   - For XAMPP: `xampp/htdocs`
+   - For WAMP: `wamp/www`
+   - For LAMP: `var/www/html`
 
-6. Import tsasdb.sql file(given inside the zip package in SQL file folder)
+5. **Open PHPMyAdmin** 🌐
+   - Go to [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
 
-7. Run the script http://localhost/tsas
+6. **Create a Database** 🗃️
+   - Name the database: `tsasdb`
 
-Admin Credential
-Username: admin
-Password: talha
+7. **Import the SQL File** 📥
+   - Import `tsasdb.sql` file located inside the `SQL file` folder in the zip package.
+
+8. **Run the Script** 🏃
+   - Open [http://localhost/tsas](http://localhost/tsas) in your browser.
+
+## Admin Credentials 🔑
+
+- **Username:** `admin`
+- **Password:** `talha`
